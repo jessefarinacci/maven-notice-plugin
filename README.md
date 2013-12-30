@@ -7,7 +7,7 @@ Generates Apache style NOTICE files.
 <plugin>
   <groupId>org.jasig.maven</groupId>
   <artifactId>maven-notice-plugin</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6.1</version>
     <configuration>
         <noticeTemplate>${jasig-notice-template-url}</noticeTemplate>
         <licenseMapping>
